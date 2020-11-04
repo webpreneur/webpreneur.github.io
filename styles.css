@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+header, main, footer {
+    margin: 2rem;
+    width: 800px;
+}
+
+ul {
+    margin: 1rem;
+}
+
+h1 {
+    font-family: 'Architects Daughter', cursive;
+}
